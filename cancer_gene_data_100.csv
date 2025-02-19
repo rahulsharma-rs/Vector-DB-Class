@@ -1,0 +1,101 @@
+Gene Name,Associated Cancer,Pathway Involved,Reference
+TP53,"Various (breast, lung, colon)",Cell Cycle Regulation & Apoptosis,COSMIC Cancer Gene Census
+KRAS,"Pancreatic, colon, lung",MAPK/ERK Signaling,COSMIC Cancer Gene Census
+EGFR,Non-small cell lung cancer,EGFR Signaling,COSMIC Cancer Gene Census
+PIK3CA,"Breast, colorectal",PI3K/AKT Signaling,COSMIC Cancer Gene Census
+PTEN,"Endometrial, prostate",PI3K/AKT/mTOR Signaling,COSMIC Cancer Gene Census
+BRCA1,"Breast, ovarian",DNA Repair (Homologous Recombination),COSMIC Cancer Gene Census
+BRCA2,"Breast, ovarian",DNA Repair (Homologous Recombination),COSMIC Cancer Gene Census
+ALK,Lung,ALK Fusion Signaling,COSMIC Cancer Gene Census
+BRAF,"Melanoma, colorectal",MAPK/ERK Signaling,COSMIC Cancer Gene Census
+NRAS,"Melanoma, hematologic",MAPK/ERK Signaling,COSMIC Cancer Gene Census
+MET,"Lung, papillary renal",MET Signaling,COSMIC Cancer Gene Census
+RET,"Thyroid, lung",Receptor Tyrosine Kinase Signaling,COSMIC Cancer Gene Census
+CDKN2A,"Melanoma, pancreatic",Cell Cycle Regulation,COSMIC Cancer Gene Census
+RB1,Retinoblastoma,Cell Cycle Regulation,COSMIC Cancer Gene Census
+APC,Colorectal,Wnt/β-catenin Signaling,COSMIC Cancer Gene Census
+CTNNB1,"Hepatocellular, colorectal",Wnt/β-catenin Signaling,COSMIC Cancer Gene Census
+SMAD4,Pancreatic,TGF-β Signaling,COSMIC Cancer Gene Census
+FGFR1,"Lung, breast",FGF Signaling,COSMIC Cancer Gene Census
+FGFR2,"Breast, endometrial",FGF Signaling,COSMIC Cancer Gene Census
+FGFR3,Bladder,FGF Signaling,COSMIC Cancer Gene Census
+FGFR4,Rhabdomyosarcoma,FGF Signaling,COSMIC Cancer Gene Census
+KIT,Gastrointestinal stromal tumor,Receptor Tyrosine Kinase Signaling,COSMIC Cancer Gene Census
+PDGFRA,Gastrointestinal stromal tumor,Receptor Tyrosine Kinase Signaling,COSMIC Cancer Gene Census
+PDGFRB,Dermatofibrosarcoma,Receptor Tyrosine Kinase Signaling,COSMIC Cancer Gene Census
+JAK2,Myeloproliferative neoplasms,JAK/STAT Signaling,COSMIC Cancer Gene Census
+STAT3,Various,JAK/STAT Signaling,COSMIC Cancer Gene Census
+MYC,Various,Transcription Regulation,COSMIC Cancer Gene Census
+MDM2,Sarcoma,p53 Regulation,COSMIC Cancer Gene Census
+CDK4,Melanoma,Cell Cycle Regulation,COSMIC Cancer Gene Census
+CCND1,"Breast, head and neck",Cell Cycle Regulation,COSMIC Cancer Gene Census
+CCNE1,Ovarian,Cell Cycle Regulation,COSMIC Cancer Gene Census
+AR,Prostate,Androgen Receptor Signaling,COSMIC Cancer Gene Census
+ESR1,Breast,Estrogen Receptor Signaling,COSMIC Cancer Gene Census
+ERBB2,Breast,Receptor Tyrosine Kinase Signaling,COSMIC Cancer Gene Census
+ERBB3,Breast,Receptor Tyrosine Kinase Signaling,COSMIC Cancer Gene Census
+NOTCH1,T-cell leukemia,Notch Signaling,COSMIC Cancer Gene Census
+NOTCH2,B-cell lymphoma,Notch Signaling,COSMIC Cancer Gene Census
+NOTCH3,Ovarian,Notch Signaling,COSMIC Cancer Gene Census
+SMARCB1,Rhabdoid tumor,Chromatin Remodeling,COSMIC Cancer Gene Census
+NF1,"Neurofibromatosis, glioma",RAS/MAPK Signaling,COSMIC Cancer Gene Census
+NF2,Schwannoma,Hippo Signaling,COSMIC Cancer Gene Census
+TERT,Various,Telomere Maintenance,COSMIC Cancer Gene Census
+IDH1,Glioma,Metabolic Regulation,COSMIC Cancer Gene Census
+IDH2,Acute myeloid leukemia,Metabolic Regulation,COSMIC Cancer Gene Census
+TET2,Myelodysplastic syndrome,Epigenetic Regulation,COSMIC Cancer Gene Census
+DNMT3A,Acute myeloid leukemia,DNA Methylation,COSMIC Cancer Gene Census
+ASXL1,Myelodysplastic syndrome,Epigenetic Regulation,COSMIC Cancer Gene Census
+EZH2,Lymphoma,Histone Methylation,COSMIC Cancer Gene Census
+SETD2,Renal cell carcinoma,Histone Methylation,COSMIC Cancer Gene Census
+SF3B1,Myelodysplastic syndrome,RNA Splicing,COSMIC Cancer Gene Census
+SRSF2,Myelodysplastic syndrome,RNA Splicing,COSMIC Cancer Gene Census
+U2AF1,Myelodysplastic syndrome,RNA Splicing,COSMIC Cancer Gene Census
+PPM1D,Breast,p53 Regulation,COSMIC Cancer Gene Census
+USP7,Various,Protein Deubiquitination,COSMIC Cancer Gene Census
+CSF1R,Histiocytosis,Receptor Tyrosine Kinase Signaling,COSMIC Cancer Gene Census
+ABL1,Chronic myeloid leukemia,Tyrosine Kinase Signaling,COSMIC Cancer Gene Census
+ROS1,Non-small cell lung cancer,Tyrosine Kinase Signaling,COSMIC Cancer Gene Census
+NTRK1,Various,Neurotrophin Signaling,COSMIC Cancer Gene Census
+NTRK2,Various,Neurotrophin Signaling,COSMIC Cancer Gene Census
+NTRK3,Various,Neurotrophin Signaling,COSMIC Cancer Gene Census
+KMT2A,Acute lymphoblastic leukemia,Chromatin Remodeling,COSMIC Cancer Gene Census
+KMT2D,Follicular lymphoma,Chromatin Remodeling,COSMIC Cancer Gene Census
+BRD4,NUT midline carcinoma,Transcription Regulation,COSMIC Cancer Gene Census
+CCND2,Breast,Cell Cycle Regulation,COSMIC Cancer Gene Census
+CCND3,Lymphoma,Cell Cycle Regulation,COSMIC Cancer Gene Census
+CDKN1B,Breast,Cell Cycle Regulation,COSMIC Cancer Gene Census
+CDKN2B,Glioblastoma,Cell Cycle Regulation,COSMIC Cancer Gene Census
+CDKN2C,Multiple myeloma,Cell Cycle Regulation,COSMIC Cancer Gene Census
+AKT1,Breast,PI3K/AKT Signaling,COSMIC Cancer Gene Census
+AKT2,Pancreatic,PI3K/AKT Signaling,COSMIC Cancer Gene Census
+AKT3,Melanoma,PI3K/AKT Signaling,COSMIC Cancer Gene Census
+mTOR,Various,mTOR Signaling,COSMIC Cancer Gene Census
+GNAS,Pituitary,G-Protein Signaling,COSMIC Cancer Gene Census
+VHL,Renal cell carcinoma,Hypoxia Signaling,COSMIC Cancer Gene Census
+HIF1A,Various,Hypoxia Signaling,COSMIC Cancer Gene Census
+CCNE2,Ovarian,Cell Cycle Regulation,COSMIC Cancer Gene Census
+AURKA,Breast,Mitotic Regulation,COSMIC Cancer Gene Census
+AURKB,Colorectal,Mitotic Regulation,COSMIC Cancer Gene Census
+PLK1,Various,Cell Cycle Regulation,COSMIC Cancer Gene Census
+BCL2,Lymphoma,Apoptosis Regulation,COSMIC Cancer Gene Census
+MCL1,Multiple myeloma,Apoptosis Regulation,COSMIC Cancer Gene Census
+FGF19,Hepatocellular carcinoma,FGF Signaling,COSMIC Cancer Gene Census
+FGF3,Breast,FGF Signaling,COSMIC Cancer Gene Census
+FGF4,Embryonal,FGF Signaling,COSMIC Cancer Gene Census
+FGF8,Prostate,FGF Signaling,COSMIC Cancer Gene Census
+FGF10,Lung,FGF Signaling,COSMIC Cancer Gene Census
+MAP2K1,Melanoma,MAPK/ERK Signaling,COSMIC Cancer Gene Census
+MAP2K2,Lung,MAPK/ERK Signaling,COSMIC Cancer Gene Census
+MAPK1,Various,MAPK/ERK Signaling,COSMIC Cancer Gene Census
+MAPK3,Various,MAPK/ERK Signaling,COSMIC Cancer Gene Census
+RAF1,Various,MAPK/ERK Signaling,COSMIC Cancer Gene Census
+RHOA,Gastric,Rho GTPase Signaling,COSMIC Cancer Gene Census
+SMO,Basal cell carcinoma,Hedgehog Signaling,COSMIC Cancer Gene Census
+GLI1,Glioma,Hedgehog Signaling,COSMIC Cancer Gene Census
+CCNB1,Breast,Cell Cycle Regulation,COSMIC Cancer Gene Census
+PLK4,Colorectal,Cell Cycle Regulation,COSMIC Cancer Gene Census
+CHEK1,Breast,DNA Damage Response,COSMIC Cancer Gene Census
+CHEK2,Breast,DNA Damage Response,COSMIC Cancer Gene Census
+PARP1,Ovarian,DNA Repair,COSMIC Cancer Gene Census
+XRCC1,Lung,DNA Repair,COSMIC Cancer Gene Census
