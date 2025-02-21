@@ -58,7 +58,7 @@ Cloning the Repository
 
 To get started, clone the repository from GitHub (replace the URL with your actual repo URL):
 
-`   [git clone https://github.com/yourusername/Vector-DB-Class.git](https://github.com/rahulsharma-rs/Vector-DB-Class.git)   `
+`   git clone https://github.com/yourusername/Vector-DB-Class.git   `
 
 Then move into the project directory:
 
